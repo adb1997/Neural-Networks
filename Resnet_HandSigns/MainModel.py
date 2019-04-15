@@ -21,7 +21,7 @@ K.set_image_data_format('channels_last')
 K.set_learning_phase(1)
 
 
-# GRADED FUNCTION: identity_block
+
 
 """ Function for identity block which comprises of a 2D conv block, followed by batchnorm and then ReLu. Batch norm has been implemented to speed up process"""
 
