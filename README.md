@@ -2,6 +2,7 @@
 Dabbling in Deep Learning 
 
 ---HAND SIGNS---
+
 The first code is for a plain neural network built on Tensorflow to classify handsigns. 
 Architecture of the model is as follows : 
 
