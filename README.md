@@ -19,5 +19,5 @@ Full Network: CONV2D -> BATCHNORM -> RELU -> MAXPOOL -> CONVBLOCK -> IDBLOCK*2 -
    
 ### **--- MNIST---**
 
-Some neural network classifiers for the MNIST and Fashion MNIST datasets. Explanation and architecture in comments 
+Some neural network classifiers for the MNIST and Fashion MNIST datasets. Experimented with regular neural network in Tensorflow as well as a Convolutional Neural Network to explore accuracy improvement.
 
