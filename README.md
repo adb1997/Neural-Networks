@@ -21,3 +21,7 @@ Full Network: CONV2D -> BATCHNORM -> RELU -> MAXPOOL -> CONVBLOCK -> IDBLOCK*2 -
 
 Some neural network classifiers for the MNIST and Fashion MNIST datasets. Experimented with regular neural network in Tensorflow as well as a Convolutional Neural Network to explore accuracy improvement.
 
+
+### **---Character Level Text Generation---**
+
+Generating new Dinosaur names from a list of existing names using a character level language model. Gradient clipping used inside the optimization function to prevent exploding gradients. Sampling carries out generation of new words.
